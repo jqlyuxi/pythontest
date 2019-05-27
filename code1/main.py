@@ -9,3 +9,4 @@ if __name__ == '__main__':
     # 启动
     app.run()
     num1 = 10
+    num2 = 20
